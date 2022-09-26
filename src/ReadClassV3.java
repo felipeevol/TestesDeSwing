@@ -38,7 +38,6 @@ public class ReadClassV3 {
 
         }
 
-        //String basePath = "D:/felipe/LEOS/LEOS-Pilot_3.1.2";
         String pathToTemplates = "/tools/cmis/chemistry-opencmis-server-inmemory/src/main/resources/leos/templates";
         String pathToProfiles = "/modules/js/src/main/js/editor/profiles";
 

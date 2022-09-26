@@ -44,7 +44,6 @@ public class ReadClassV2 {
         //        Messages.getInformationIcon());
 
         ////String basePath = anActionEvent.getProject().getBasePath();
-        //String basePath = "D:/felipe/LEOS/LEOS-Pilot_3.1.2";
         String pathToTemplates = "/tools/cmis/chemistry-opencmis-server-inmemory/src/main/resources/leos/templates";
         File templatesFolder = new File(basePath + pathToTemplates);
 
